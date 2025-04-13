@@ -5,6 +5,6 @@
 
   # ZinanLin-Oscar's Website
 
-  Visit **[zinanlin-oscar.github.io/smile-lab-website](https://zinanlin-oscar.github.io/smile-lab-website)** 🚀
+  Visit **[zinanlin-oscar.github.io/smile-lab.github.io](https://zinanlin-oscar.github.io/smile-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
