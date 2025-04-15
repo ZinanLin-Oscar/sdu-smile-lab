@@ -4,8 +4,9 @@ nav:
   order: 5
   tooltip: Email, address, and location
 ---
+
 <div style="text-align: center;">
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+<h1> {% include icon.html icon="fa-regular fa-envelope" %}Contact <h1>
 
 SDU Life Cycle Engineering Unit<br>
 Department of Green Technology(IGT)<br>
