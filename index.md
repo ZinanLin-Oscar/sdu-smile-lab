@@ -1,10 +1,9 @@
 ---
 ---
 
-# About Us
+# About US
 
 We are a research team within the Green Technology Department at the Faculty of Engineering, University of Southern Denmark. Our research focuses on:
-
 - **Metabolic patterns and drivers of different societal systems**
 - **Sustainability implications of sociometabolic transitions**
 - **Spatially and technologically refined stocks and flows analysis**
