@@ -14,6 +14,8 @@ We concentrate exclusively on the following areas:
 - **Transport & Communication**
 - **Reside & Work**
 
+images/background.jpg
+
 
 {% include section.html %}
 
