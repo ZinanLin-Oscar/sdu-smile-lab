@@ -1,7 +1,7 @@
 ---
 ---
 
-# About US
+# **About US**
 
 We are a research team within the [Department of Green Technology](https://www.sdu.dk/en/igt) at the Faculty of Engineering, University of Southern Denmark. Our research focuses on:
 - **Metabolic patterns and drivers of different societal systems**
