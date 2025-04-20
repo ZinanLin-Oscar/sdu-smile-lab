@@ -23,8 +23,8 @@ Denmark
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/The+Faculty+of+Engineering/@55.3673846,10.4309481,18.5z/data=!4m6!3m5!1s0x464d204fe2633dd5:0x99cfe0547124d6e9!8m2!3d55.3672411!4d10.4320785!16s%2Fg%2F122tnw5l?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D"
+  text="Our location on Google Maps for easy navigation"
+  link="https://maps.app.goo.gl/TTVjd6rDn14pykTU6"
 %}
 
 {% include section.html %}
