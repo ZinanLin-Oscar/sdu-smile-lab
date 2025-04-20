@@ -5,8 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-<div style="text-align: center;">
-<h1>{% include icon.html icon="fa-regular fa-envelope" %} Contact</h1>
+# {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 SDU Life Cycle Engineering Unit<br>
 Department of Green Technology (IGT)<br>
@@ -14,7 +13,6 @@ Faculty of Engineering (TEK)<br>
 University of Southern Denmark<br>
 5230 Odense M<br>
 Denmark
-</div>
 
 {%
   include button.html
@@ -32,6 +30,7 @@ Denmark
 {% include section.html %}
 
 {% capture col1 %}
+
 {%
   include figure.html
   image="images/sdu_campus.png"
