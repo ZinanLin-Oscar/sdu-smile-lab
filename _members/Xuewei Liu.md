@@ -1,6 +1,6 @@
 ---
 name: Xuewei Liu
-image: images/photo.jpg
+image: images/Xuewei.jpg
 description: Postdoc
 role: Postdoc
 links:
