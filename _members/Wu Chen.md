@@ -1,6 +1,6 @@
 ---
 name: Wu Chen
-image: images/photo.jpg
+image: images/Wu Chen.jpg
 description: Assistant Professor
 role: Assistant Professor
 links:
