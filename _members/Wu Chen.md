@@ -9,4 +9,4 @@ links:
   orcid: https://orcid.org/0000-0001-6100-3588
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Wu Chen is an Assistant Professor at the Department of Green Technology (IGT), Faculty of Engineering, University of Southern Denmark. 
