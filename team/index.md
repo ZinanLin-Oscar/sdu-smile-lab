@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 
 
-### Assistant Professors  
+### Assistant Professor  
 {% include list.html data="members" component="portrait" filter="role == 'Assistant Professor'" %}
 
 ### Postdocs  
