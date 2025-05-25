@@ -1,6 +1,6 @@
 ---
 name: Zhuang Qian
-image: images/photo.jpg
+image: images/Zhuang Qian.jpg
 description: Postdoc
 role: Postdoc
 links:
