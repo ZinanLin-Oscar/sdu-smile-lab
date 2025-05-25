@@ -1,8 +1,8 @@
 ---
 name: Kun Sun
 image: images/photo.jpg
-description: PhD Student
-role: PhD Student
+description: Postdoc
+role: Postdoc
 links:
   email: ksu@igt.sdu.dk
   orcid: https://orcid.org/0000-0003-1234-6781
