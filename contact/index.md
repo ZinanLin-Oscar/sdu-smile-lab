@@ -6,19 +6,17 @@ nav:
 ---
  
 # **{% include icon.html icon="fa-regular fa-envelope" %}  Contact**
-
 {% include section.html %}
-## {% include icon.html icon="fas fa-map-marker-alt" %} Address
- 
+## <span style="color: red;">{% include icon.html icon="fas fa-map-marker-alt" %}</span> Address
 <div style="text-align: center;">
-  <p>
-    <strong>SDU Life Cycle Engineering Center</strong><br>
+  <p><em>
+    SDU Life Cycle Engineering Center<br>
     Department of Green Technology (IGT)<br>
     Faculty of Engineering (TEK)<br>
     University of Southern Denmark<br>
     5230 Odense M<br>
     Denmark
-  </p>
+  </em></p>
 </div>
  
 {%
