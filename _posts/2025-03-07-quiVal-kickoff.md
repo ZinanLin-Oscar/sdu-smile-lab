@@ -1,6 +1,6 @@
 ---
 title: QuiVal Doctoral Network Kicks Off at TU Delft
-image: images/Quival Kickoff.jpg
+image: images/QuiVal Kickoff.jpg
 tags: QuiVal, Built-Environment
 ---
 
