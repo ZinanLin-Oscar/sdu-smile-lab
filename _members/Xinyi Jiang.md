@@ -1,6 +1,6 @@
 ---
 name: Xinyi Jiang
-image: images/photo.jpg
+image: images/Xinyi.jpg
 description: PhD Student
 role: PhD Student
 links:
