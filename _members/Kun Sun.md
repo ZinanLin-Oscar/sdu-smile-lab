@@ -1,6 +1,6 @@
 ---
 name: Kun Sun
-image: images/photo.jpg
+image: images/Kun.png
 description: Postdoc
 role: Postdoc
 links:
