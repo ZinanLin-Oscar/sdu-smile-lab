@@ -1,10 +1,10 @@
 ---
 name: Wu Chen
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Assistant Professor
+role: Assistant Professor
 links:
-  email: sarah.johnson@gmail.com
+  email: wuc@igt.sdu.dk
   twitter: sarahjohnson
 ---
 
