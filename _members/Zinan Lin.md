@@ -1,6 +1,6 @@
 ---
 name: Zinan Lin
-image: images/photo.jpg
+image: images/Zinan.jpg
 description: PhD Student
 role: PhD Student
 links:
