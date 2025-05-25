@@ -9,8 +9,9 @@ nav:
 {% include section.html %}
 ## <span style="color: red;">{% include icon.html icon="fas fa-map-marker-alt" %}</span> Address
 <div style="text-align: center;">
-  <p><em>
-    SDU Life Cycle Engineering Center<br>
+  <p style="font-size: 1.2rem;"><em>
+
+    Life Cycle Engineering Center<br>
     Department of Green Technology (IGT)<br>
     Faculty of Engineering (TEK)<br>
     University of Southern Denmark<br>
