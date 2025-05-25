@@ -1,5 +1,5 @@
 ---
-title: Kickstarting Collaboration: SDU Researchers Present to Circue and Rambøll
+title: Kickstarting Collaboration-SDU Researchers Present to Circue and Rambøll
 tags: QuiVal, Built-Environment
 ---
 
