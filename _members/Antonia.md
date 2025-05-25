@@ -1,6 +1,6 @@
 ---
 name: Antonia Johanna Klipp
-image: images/Antonia.png
+image: images/Antonia.jpg
 description: PhD Student
 role: PhD Student
 links:
