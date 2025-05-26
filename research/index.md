@@ -9,10 +9,12 @@ nav:
 
 ## Featured Projects
 
-### <i class="fa-solid fa-leaf"></i> [TREASoURcE: Territorial and regional demonstrations of systemic solutions of key value chains and their replication to deploy circular economy]([https://www.sdu.dk/en/igt](https://treasource.eu/))
+### <i class="fa-solid fa-leaf"></i> [TREASoURcE](https://treasource.eu/): Territorial and regional demonstrations of systemic solutions of key value chains and their replication to deploy circular economy
 **Duration:** 2022-2026
-**Status:** Ongoing  
-<img src="images/overview.png" alt="GreenTech Project" width="50%" style="margin: 10px 0;">
+
+**Status:** Ongoing 
+
+![Overview Image](images/overview.png)
 
 **Description:**  
 This project investigates the material and energy flows associated with green technology transitions in urban environments. We use spatially refined sociometabolic models to assess sustainability impacts and identify leverage points for policy intervention.
