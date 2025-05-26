@@ -26,7 +26,7 @@ As global demand for clean energy surges, green hydrogen production powered by o
 
 ### [QuiVal](https://quival-research.eu/): Quantum Inspired Valuation of Circular Real Estate
 **Duration:** 09.2024-08.2028<br>
-**Funding Type:** Horizon Europe?<br>
+**Funding Type:** Marie Skłodowska-Curie Actions (MSCA)<br>
 **Status:** Ongoing<br>
 
 <img src="../images/overview.png" alt="TREASoURcE" style="width: 80%; height: auto;">
@@ -50,7 +50,7 @@ TREASoURcE focuses on demonstrating CE solutions in cities and regions across th
 
 ---
 
-### [WASTELESS](https://cordis.europa.eu/project/id/101084222): Waste Quantification Solutions to Limit Environmental Stress
+### [WASTELESS](https://wastelesseu.com/): Waste Quantification Solutions to Limit Environmental Stress
 **Duration:** 01.2023-12.2025<br>
 **Funding Type:** Horizon Europe?<br>
 **Status:** Ongoing<br>
