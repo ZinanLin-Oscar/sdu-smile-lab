@@ -9,7 +9,7 @@ nav:
 
 ## Featured Projects
 
-## [TREASoURcE](https://treasource.eu/): Territorial and regional demonstrations of systemic solutions of key value chains and their replication to deploy circular economy
+### [TREASoURcE](https://treasource.eu/): Territorial and regional demonstrations of systemic solutions of key value chains and their replication to deploy circular economy
 **Duration:** 06.2022-05.2026<br>
 **Funding Type:** Innovation Action (IA)<br>
 **Status:** Ongoing<br>
