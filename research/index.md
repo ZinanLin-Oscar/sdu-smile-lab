@@ -16,7 +16,7 @@ nav:
 **Funding Type:** Marie Skłodowska-Curie Actions (MSCA)<br>
 **Status:** Ongoing<br>
 
-<img src="../images/overview.png" alt="TREASoURcE" style="width: 80%; height: auto;">
+<img src="../images/windy.png" alt="TREASoURcE" style="width: 80%; height: auto;">
 
 **Description:**  
 As global demand for clean energy surges, green hydrogen production powered by offshore wind is emerging as a promising solution. However, the path from capturing offshore wind energy to delivering hydrogen safely is not without challenges. With the support of Marie Skłodowska-Curie Actions programme the WINDHY project tackles these by focusing on novel offshore production technologies that convert wind power to hydrogen through electrolysis. Central tasks include refining energy carriers and transport methods whilst addressing the technical and environmental risks. WINDHY unites experts through a staff exchange, global survey, and networking across sectors to assess sustainability, manage risks and strengthen Europe’s renewable energy expertise. This approach promises to make offshore hydrogen production safer and more sustainable.<br>
@@ -29,7 +29,7 @@ As global demand for clean energy surges, green hydrogen production powered by o
 **Funding Type:** Marie Skłodowska-Curie Actions (MSCA)<br>
 **Status:** Ongoing<br>
 
-<img src="../images/overview.png" alt="TREASoURcE" style="width: 80%; height: auto;">
+<img src="../images/quival.png" alt="TREASoURcE" style="width: 80%; height: auto;">
 
 **Description:**  
 The real estate industry, a significant contributor to pollution, must reduce its emissions and incorporate environmental and societal values into investment decisions. Currently, there is limited understanding of the value of CO2-neutral real estate throughout its life cycle. With the support of the Marie Skłodowska-Curie Actions programme, the QuiVal project will train professionals to develop an innovative, climate-aware approach to real estate value and valuation. It explores quantum mechanical concepts to pursue circular real estate, aiming to motivate future investments in this sector. The project comprises a collaborative network of PhD projects focused on developing quantum-inspired approaches to valuing buildings for a circular real estate market.<br>
@@ -42,7 +42,7 @@ The real estate industry, a significant contributor to pollution, must reduce it
 **Funding Type:** Innovation Action (IA)<br>
 **Status:** Ongoing<br>
 
-<img src="../images/overview.png" alt="TREASoURcE" style="width: 80%; height: auto;">
+<img src="../images/treasource.png" alt="TREASoURcE" style="width: 80%; height: auto;">
 
 **Description:**  
 TREASoURcE focuses on demonstrating CE solutions in cities and regions across the Nordics (Finland, Sweden, Norway, and Denmark), with plans to replicate them in the Baltics (Estonia, Latvia, Lithuania), Poland, and Germany (within the Baltic Sea Region). The combination of these cities and regions will enable broad reach and significant impact, enhancing the replicability and scalability potential of the CE solutions. A common issue across the regions is the low and decentralised material volumes, which present feasibility challenges and high-risk investments due to difficulties in securing sufficient feedstock in terms of both quality and quantity. Nevertheless, the regions’ strengths lie in their ambitious climate and environmental targets.<br>
@@ -55,7 +55,7 @@ TREASoURcE focuses on demonstrating CE solutions in cities and regions across th
 **Funding Type:** Horizon Europe?<br>
 **Status:** Ongoing<br>
 
-<img src="../images/overview.png" alt="TREASoURcE" style="width: 80%; height: auto;">
+<img src="../images/wasteless.png" alt="TREASoURcE" style="width: 80%; height: auto;">
 
 **Description:**  
 The EU’s transition to a circular economy and more resource efficiency is driven by innovation. This can be seen in the food industry, where there is a shift from linear to circular sustainability. In this context, the EU-funded WASTELESS project will develop and test a mix of innovative tools and methodologies for measurement and monitoring of food loss and waste. The project will follow a bottom-up approach. It will start by defining a harmonised methodological framework. It will then establish the standards for the testing activities, the evaluation of the quality and integrability of the data produced in other frameworks. Lastly, it will recommend sustainable policies and business strategies. The findings will be used to develop a decision support toolbox.<br>
