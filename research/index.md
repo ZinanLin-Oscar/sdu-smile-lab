@@ -14,7 +14,7 @@ nav:
 
 **Status:** Ongoing 
 
-![Overview Image](images/overview.png)
+![test](images/overview.png)
 
 **Description:**  
 This project investigates the material and energy flows associated with green technology transitions in urban environments. We use spatially refined sociometabolic models to assess sustainability impacts and identify leverage points for policy intervention.
@@ -26,7 +26,8 @@ This project investigates the material and energy flows associated with green te
 ### <i class="fa-solid fa-recycle"></i> Circular Economy Mapping
 **Duration:** March 2022 – August 2024  
 **Status:** Near Completion  
-<img src="images/circular.jpg" alt="Circular Economy" width="50%" style="margin: 10px 0;">
+
+![test2](images/overview.png)
 
 **Description:**  
 A spatial analysis of material stocks and flows in Denmark’s industrial sectors, aiming to identify circularity gaps and opportunities for sustainable resource use.
