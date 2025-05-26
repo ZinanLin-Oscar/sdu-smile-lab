@@ -25,7 +25,7 @@ To be updated...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -47,8 +47,8 @@ To be updated...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="blog"
+  text="Latest News"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
