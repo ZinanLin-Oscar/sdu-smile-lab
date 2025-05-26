@@ -10,14 +10,15 @@ nav:
 ## Featured Projects
 
 ### [TREASoURcE](https://treasource.eu/): Territorial and regional demonstrations of systemic solutions of key value chains and their replication to deploy circular economy
-**Duration:** 2022-2026<br><br>
-**Status:** Ongoing<br><br>
+**Duration:** 06.2022-05.2026<br>
+**Funding Type:** Innovation Action (IA)<br>
+**Status:** Ongoing<br>
 
-![test](../images/overview.png)
+![TREASoURcE](../images/overview.png)
 
 **Description:**  
-This project investigates the material and energy flows associated with green technology transitions in urban environments. We use spatially refined sociometabolic models to assess sustainability impacts and identify leverage points for policy intervention.<br><br>
-**Keywords:** sustainability, urban metabolism, green technology<br><br>
+TREASoURcE aims to initiate systemic change by developing systemic circular economy solutions in cities and regions for currently underutilised or unused plastic waste, end-of-life electric vehicle batteries, and bio-based waste and side streams.​ Implementing circular economy solutions together with companies, societies, and experts in the field is expected  to  significantly  increase  product  and material circulation in the Nordic and Baltic Sea Regions.<br>
+**Keywords:** Sustainability, transport<br>
 
 ---
 
