@@ -8,7 +8,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 ## Featured Projects
----
 
 ### [WINDHY](https://cordis.europa.eu/project/id/101181231/pl): Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
 **Duration:** 10.2024-09.2028<br>
