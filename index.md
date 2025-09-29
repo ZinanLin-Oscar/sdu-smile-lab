@@ -2,7 +2,6 @@
 ---
 # **About US**
 
-<p style="font-size:18px;">
 We are a research group in the [Department of Green Technology](https://www.sdu.dk/en/igt) at the Faculty of Engineering, [University of Southern Denmark](https://www.sdu.dk/en). 
 
 Our work focuses on the sociometabolic dynamics of contemporary societies. We analyze material and energy flows to understand systemic patterns, technological transitions, and sustainability implications.
@@ -11,7 +10,7 @@ Research Themes:
 - **Metabolic patterns and drivers of different societal systems**
 - **Sustainability implications of sociometabolic transitions**
 - **Spatially and technologically refined stocks and flows analysis**
-</p>
+
 ![Overview Image](images/overview.png)
 
 
