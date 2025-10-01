@@ -1,1 +1,1 @@
-Sitemap: https://zinanlin-oscar.github.io/sdu-smile-lab/sitemap.xml
+Sitemap: http://www.sdu-smilelab.com/sitemap.xml
