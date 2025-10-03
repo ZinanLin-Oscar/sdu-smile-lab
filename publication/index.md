@@ -4,12 +4,23 @@ nav:
   order: 2
   tooltip: Publication
 ---
+
  
-# **{% include icon.html icon="fa-regular fa-envelope" %}  Contact**
-{% include section.html %}
 
-We are continuously looking for passionate and motivated **PhD candidates** and **Postdoctoral researchers** (full scholarship) to to work on xxxxx. Students in xxxxxx, or related majors with proficient xxxx skills are welcome to apply. Please feel free to contact Prof. Wu Chen with CV (and/or transcripts, sample publications) attached if you are interested.  
+## 2025
 
-**Prof. Wu Chen** – wuc@igt.sdu.dk
+### A global dataset for steel aluminum and cement in-use stocks at 500 m gridded level 2000–2019###
+
+Sun, K., Li, Q., Dai, M., Guo, H., Liu, Q., Song, J., Chen, Z., Gummidi, S. R. B., Chen, W., Yu, B. & Liu, G.  
+*Scientific Data*, 12, 11 pages, Article 1560. Published: 26 Sept 2025
+
+-----------
+## 2025
+
+### A global dataset for steel aluminum and cement in-use stocks at 500 m gridded level 2000–2019###
+
+Sun, K., Li, Q., Dai, M., Guo, H., Liu, Q., Song, J., Chen, Z., Gummidi, S. R. B., Chen, W., Yu, B. & Liu, G.  
+*Scientific Data*, 12, 11 pages, Article 1560. Published: 26 Sept 2025
+
 
 ----------
