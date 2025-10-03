@@ -7,9 +7,15 @@ nav:
  
 # **{% include icon.html icon="fa-regular fa-envelope" %}  Contact**
 {% include section.html %}
+
+We are continuously looking for passionate and motivated **PhD candidates** and **Postdoctoral researchers** (full scholarship) to to work on xxxxx. Students in xxxxxx, or related majors with proficient xxxx skills are welcome to apply. Please feel free to contact Prof. Wu Chen with CV (and/or transcripts, sample publications) attached if you are interested.  
+
+**Prof. Wu Chen** – wuc@igt.sdu.dk
+
 ## <span style="color: red;">{% include icon.html icon="fas fa-map-marker-alt" %}</span> Address
-<div style="text-align: center;">
-  <p style="font-size: 1.2rem;"><em>
+
+<div style="text-align: center; font-size: 0.95rem; line-height: 1.4;">
+  <em>
 
     Life Cycle Engineering Center<br>
     Department of Green Technology (IGT)<br>
@@ -19,11 +25,6 @@ nav:
     Denmark
   </em></p>
 </div>
-
-
-We are continuously looking for passionate and motivated **PhD candidates** and **Postdoctoral researchers** to join our team.  
-If you are interested in **sustainable development**, **material flow analysis**, or **circular economy research**, feel free to reach out via email:  
-📧 **Wu Chen** – wuc@igt.sdu.dk
 
  
 {%
