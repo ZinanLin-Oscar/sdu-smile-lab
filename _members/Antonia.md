@@ -1,6 +1,6 @@
 ---
 name: Antonia Johanna Klipp
-image: images/Antonia.jpg
+image: images/Antonia_black_white.jpg
 description: PhD Student
 role: PhD Student
 links:
@@ -8,4 +8,6 @@ links:
   orcid: https://orcid.org/0009-0007-3990-7418
 ---
 
-Antonia Johanna Klipp is a PhD Student at the Department of Green Technology (IGT), Faculty of Engineering, University of Southern Denmark. 
+Antonia Johanna Klipp is a PhD Candidate at the Center for Life Cycle Engineering, Department of Green Technology, at the University of Southern Denmark. Her research investigates how circularity influences the value of building materials, contributing to QuiVal, a transdisciplinary EU-funded project on Quantum-inspired Valuation of Real Estate.
+She brings industry experience from PwC Germany, where she supported large-scale infrastructure projects. Antonia holds a Bachelor’s and a Master’s degree in Civil Engineering from RWTH Aachen University, complemented by academic exchanges at the University of Sheffield and University of British Columbia. Her master’s thesis explored Circular Business Models for modular construction.
+
