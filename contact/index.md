@@ -19,6 +19,12 @@ nav:
     Denmark
   </em></p>
 </div>
+
+
+We are continuously looking for passionate and motivated **PhD candidates** and **Postdoctoral researchers** to join our team.  
+If you are interested in **sustainable development**, **material flow analysis**, or **circular economy research**, feel free to reach out via email:  
+📧 **Wu Chen** – wuc@igt.sdu.dk
+
  
 {%
   include button.html
