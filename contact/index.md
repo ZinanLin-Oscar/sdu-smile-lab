@@ -12,9 +12,9 @@ We are continuously looking for passionate and motivated **PhD candidates** and 
 
 **Prof. Wu Chen** – wuc@igt.sdu.dk
 
-## <span style="color: red;">{% include icon.html icon="fas fa-map-marker-alt" %}</span> Address
+----------
 
-<div style="text-align: center; font-size: 0.95rem; line-height: 1.4;">
+<div style="text-align: center; font-size: 1.1rem; line-height: 1.6;">
   <em>
 
     Life Cycle Engineering Center<br>
