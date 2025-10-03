@@ -1,7 +1,7 @@
 ---
 title: Publication
 nav:
-  order: 5
+  order: 2
   tooltip: Publication
 ---
  
