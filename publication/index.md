@@ -14,7 +14,7 @@ Sun, K., Li, Q., Dai, M., Guo, H., Liu, Q., Song, J., Chen, Z., Gummidi, S. R. B
 ### [Urban Fabric Decoded: High-Precision Building Material Identification via Deep Learning and Remote Sensing](https://www.sciencedirect.com/science/article/pii/S266649842500016X?via%3Dihub)  ###
 Sun, K., Li, Q., Liu, Q., Song, J., Dai, M., Qian, X., Gummidi, S. R. B., Yu, B., Creutzig, F. & Liu, G., Mar 2025, In: Environmental Science and Ecotechnology. 24, 11 p., 100538.
 
------------
+
 ## 2024 ##
 
 ### [Spatiotemporal and Multilayer Trade Network Patterns of the Global Cobalt Cycle](https://pubs.acs.org/doi/10.1021/acs.est.4c02717) ###
@@ -26,13 +26,13 @@ Ouyang, X., Liu, L., Chen, W., Wang, C., Sun, X., He, C. & Liu, G., 17. Dec 2024
 ### [Uncovering Availability of the Secondary Iron Resources in China: Integrating Material Flow Analysis and Secondary Resources Reserve Assessment](https://pubs.acs.org/doi/10.1021/acs.est.3c09975) ### 
 Dai, T., Han, Z., Chen, W., Wen, B., Ouyang, X., Li, Q., Pan, Z. & Liu, Q., 13. Aug 2024, In: Environmental Science & Technology. 58, 34, p. 15268–15278
 
-----------
+
 ## 2023 ##
 
 ### [Design a reverse logistics network for end-of-life power batteries: A case study of Chengdu in China](https://doi.org/10.1016/j.scs.2023.104807) ###
 Lin, J., Li, X., Zhao, Y., Chen, W. & Wang, M., Nov 2023, In: Sustainable Cities and Society. 98, 13 p., 104807.
 
-----------
+
 ## 2022 ##
 
 ### [Battery technology and recycling alone will not save the electric mobility transition from future cobalt shortages](https://www.nature.com/articles/s41467-022-29022-z) ### 
