@@ -20,7 +20,7 @@ Research Themes:
 
 {% capture text %}
 
-To be updated...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We investigate sustainable transitions across key socio-economic systems—transport, energy, buildings, and food. Our work connects academia, industry, and policy, fostering collaboration and public knowledge exchange through a strong interdisciplinary and cross-sectoral network.
 
 {%
   include button.html
@@ -43,7 +43,7 @@ To be updated...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 
 {% capture text %}
 
-To be updated...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Stay updated with our latest publications, conference highlights, and research insights. Our blog offers a window into the evolving landscape of sustainability science and innovation.
 
 {%
   include button.html
@@ -68,7 +68,7 @@ To be updated...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 
 {% capture text %}
 
-To be updated...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a young, vibrant and international team shaped by diverse academic roots—from economics and civil engineering to environmental science, GIS, and computer science. United by a shared vision for sustainability, we bring fresh perspectives and interdisciplinary strength to every challenge.
 
 {%
   include button.html
