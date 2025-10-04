@@ -11,7 +11,7 @@ nav:
 
 
 ### Associate  Professor  
-{% include list.html data="members" component="portrait" filter="role == 'Assistant Professor'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Associate Professor'" %}
 
 ### Postdocs  
 {% include list.html data="members" component="portrait" filter="role == 'Postdoc'" %}
