@@ -19,7 +19,7 @@ nav:
 
 <hr>
 
-<div style="text-align: center; font-size: 1.1rem; line-height: 1.6;">
+<div style="text-align: center; font-size: 1.2rem; line-height: 1.6;">
   <em>
 
     Life Cycle Engineering Center<br>
@@ -28,7 +28,7 @@ nav:
     University of Southern Denmark<br>
     5230 Odense M<br>
     Denmark
-    
+    <br><br>
   </em>
 </div>
 
