@@ -9,11 +9,15 @@ nav:
 {% include section.html %}
 
 <div style="font-size: 1.3rem; line-height: 1.6;">
-We are continuously looking for passionate and motivated **PhD candidates** and **Postdoctoral researchers** (full scholarship) to to work on xxxxx. Students in xxxxxx, or related majors with proficient xxxx skills are welcome to apply. Please feel free to contact Prof. Wu Chen with CV (and/or transcripts, sample publications) attached if you are interested.  
+  We are continuously looking for passionate and motivated <strong>PhD candidates</strong> and <strong>Postdoctoral researchers</strong> (full scholarship) to work on xxxxx.  
+  Students in xxxxxx, or related majors with proficient xxxx skills are welcome to apply.  
+  Please feel free to contact Prof. Wu Chen with CV (and/or transcripts, sample publications) attached if you are interested.  
 
-**Prof. Wu Chen** – wuc@igt.sdu.dk
+  <br><br>
+  📧 <strong>Prof. Wu Chen</strong> – mailto:wuc@igt.sdu.dkwuc@igt.sdu.dk</a>
+</div>
 
-----------
+<hr>
 
 <div style="text-align: center; font-size: 1.1rem; line-height: 1.6;">
   <em>
