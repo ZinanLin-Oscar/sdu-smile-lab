@@ -1,7 +1,7 @@
 ---
-title: Kickstarting Collaboration-SDU Researchers Present to Circue and Rambøll
+title: SDU Researchers Engage with QuiVal Partners Circue and Rambøll
 image: images/Image.jpg
-tags: QuiVal, Built-Environment
+tags: QuiVal, Built-Environment, Industry
 ---
 
 On May 8th, the research team from the University of Southern Denmark (SDU)—Morten Birkved, Wu Chen, Xinyi Jiang, Antonia Klipp, and Zinan Lin—held their first in-person meeting with industry partners Lene Brix from Circue and Pernille Krohn Ohms from Rambøll in Copenhagen.
