@@ -21,21 +21,21 @@ nav:
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <strong>Duration:</strong> 09.2024-08.2028 (active)<br>
   <strong>Funding Type:</strong> EU Marie Skłodowska-Curie Actions (MSCA)<br>
-  <strong>Keywords:<strong> Circular Economy, Built environment, Urban metabolism<br>
+  <strong>Keywords:</strong> Circular Economy, Built environment, Urban metabolism<br>
 </div>
 
 #### [TREASoURcE:Territorial and regional demonstrations of systemic solutions of key value chains and their replication to deploy circular economy](https://treasource.eu/) ####
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <strong>Duration:</strong> 06.2022-05.2026 (active)<br>
   <strong>Funding Type:</strong> EU Innovation Action (IA)<br>
-  <strong>Keywords:<strong> Transport, Sustainability development<br>
+  <strong>Keywords:</strong> Transport, Sustainability development<br>
 </div>
 
 #### [Wasteless:Waste Quantification Solutions to Limit Environmental Stress](https://wastelesseu.com/) ####
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <strong>Duration:</strong> 01.2023-12.2025 (active)<br>
   <strong>Funding Type:</strong> EU Horizon Europe? <br>
-  <strong>Keywords:<strong> Agriculture, Food<br>
+  <strong>Keywords:</strong> Agriculture, Food<br>
 </div>
 
 --------
@@ -46,21 +46,21 @@ nav:
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <strong>Duration:</strong> 09.2025–08.2026 (active)<br>
   <strong>Funding Type:</strong> xxx <br>
-  <strong>Keywords:<strong> Energy transition, Supply chain management <br>
+  <strong>Keywords:</strong> Energy transition, Supply chain management <br>
 </div>
 
 #### [Pig-Green: Exploring the green transformation of the Danish pork supply chain and its contribution to carbon neutrality](https://portal.findresearcher.sdu.dk/en/projects/exploring-the-green-transformation-of-the-danish-pork-supply-chai) ####
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <strong>Duration:</strong> 04.2025–03.2026 (active)<br>
   <strong>Funding Type:</strong> xxx <br>
-  <strong>Keywords:<strong> Pork supply chain, Carbon neutrality <br>
+  <strong>Keywords:</strong> Pork supply chain, Carbon neutrality <br>
 </div>
 
 #### [iBuildGreen: Exploring the green transformation of the Danish pork supply chain and its contribution to carbon neutrality](https://portal.findresearcher.sdu.dk/en/projects/exploring-the-green-transformation-of-the-danish-pork-supply-chai) ####
 <div style="font-size: 1.1rem; line-height: 1.6;">
   <strong>Duration:</strong> 01.2021–07.2024 (completed)<br>
   <strong>Funding Type:</strong> xxx <br>
-  <strong>Keywords:<strong> Building material stock, Circular Economy <br>
+  <strong>Keywords:</strong> Building material stock, Circular Economy <br>
 </div>
 
 
