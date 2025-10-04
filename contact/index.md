@@ -14,7 +14,7 @@ nav:
   Please feel free to contact Prof. Wu Chen with CV (and/or transcripts, sample publications) attached if you are interested.  
 
   <br><br>
-  📧 <strong>Prof. Wu Chen</strong> – mailto:wuc@igt.sdu.dkwuc@igt.sdu.dk</a>
+  📧 <strong>Prof. Wu Chen</strong> – wuc@igt.sdu.dk
 </div>
 
 <hr>
