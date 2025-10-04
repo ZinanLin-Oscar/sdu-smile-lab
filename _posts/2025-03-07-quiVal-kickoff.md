@@ -1,7 +1,7 @@
 ---
 title: QuiVal Doctoral Network Kicks Off at TU Delft
 image: images/QuiVal Kickoff.jpg
-tags: QuiVal, Built-Environment
+tags: QuiVal, Built-Environment, Industry Collaboration
 ---
 
 The QuiVal MSCA Doctoral Network officially launched with a workshop hosted by TU Delft, bringing together 13 PhD candidates and academic staff from partner universities across Europe.
