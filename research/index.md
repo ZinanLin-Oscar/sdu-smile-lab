@@ -16,7 +16,7 @@ nav:
     <strong>Funding Type:</strong> EU Marie Skłodowska-Curie Actions (MSCA)<br>
     <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident<br>
   <div>
-  /images/logo.png
+  /images/windy.png
 </div>
 
 
