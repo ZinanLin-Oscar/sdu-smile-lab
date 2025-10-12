@@ -9,10 +9,10 @@ nav:
 
 ## 2025 ##
 #### [A global dataset for steel aluminum and cement in-use stocks at 500 m gridded level 2000–2019](https://www.nature.com/articles/s41597-025-05618-0) ####
-### Sun, K., Li, Q., Dai, M., Guo, H., Liu, Q., Song, J., Chen, Z., Gummidi, S. R. B., Chen, W., Yu, B. & Liu, G., 26. Sept 2025, In: Scientific Data. 12, 11 p., 1560. ###
+##### Sun, K., Li, Q., Dai, M., Guo, H., Liu, Q., Song, J., Chen, Z., Gummidi, S. R. B., Chen, W., Yu, B. & Liu, G., 26. Sept 2025, In: Scientific Data. 12, 11 p., 1560. #####
 
 #### [Urban Fabric Decoded: High-Precision Building Material Identification via Deep Learning and Remote Sensing](https://www.sciencedirect.com/science/article/pii/S266649842500016X?via%3Dihub)  ####
-## Sun, K., Li, Q., Liu, Q., Song, J., Dai, M., Qian, X., Gummidi, S. R. B., Yu, B., Creutzig, F. & Liu, G., Mar 2025, In: Environmental Science and Ecotechnology. 24, 11 p., 100538. ##
+###### Sun, K., Li, Q., Liu, Q., Song, J., Dai, M., Qian, X., Gummidi, S. R. B., Yu, B., Creutzig, F. & Liu, G., Mar 2025, In: Environmental Science and Ecotechnology. 24, 11 p., 100538. ######
 
 
 ## 2024 ##
