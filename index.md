@@ -8,7 +8,7 @@ We study the **sustainable transformation** of **socio-economic systems**, with 
 
 Through close collaboration with academic institutions, industry partners, and policy stakeholders, we aim to serve as a strategic bridge between research, practice, and decision-making. By fostering knowledge exchange, interdisciplinary dialogue, and real-world application, we contribute to shaping more resilient and sustainable futures.
 
-![Overview Image](images/Team Introduction.png)
+![Overview Image](images/teamoverview.png)
 
 
 {% include section.html %}
