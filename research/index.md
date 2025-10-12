@@ -10,10 +10,13 @@ nav:
 ### EU Foundations
 
 #### [Windy:Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production](https://cordis.europa.eu/project/id/101181231/pl) ####
-<div style="font-size: 1.1rem; line-height: 1.6; text-align: left;">
-  <strong>Duration:</strong> 10.2024–09.2028 (active)<br>
-  <strong>Funding Type:</strong> EU Marie Skłodowska-Curie Actions (MSCA)<br>
-  <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident<br>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <strong>Duration:</strong> 10.2024–09.2028 (active)<br>
+    <strong>Funding Type:</strong> EU Marie Skłodowska-Curie Actions (MSCA)<br>
+    <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident<br>
+  <div>
+  /images/logo.png
 </div>
 
 
