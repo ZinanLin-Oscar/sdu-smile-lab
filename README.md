@@ -5,6 +5,6 @@
 
   # ZinanLin-Oscar's Website
 
-  Visit **[www.sdu-smile-lab.com](https://www.sdu-smile-lab.com)** 🚀
+  Visit **[www.sdu-smile-lab.com](http://www.sdu-smile-lab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
