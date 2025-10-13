@@ -1,1 +1,1 @@
-Sitemap: https://www.sdu-smile-lab.com/sitemap.xml
+Sitemap: http://www.sdu-smile-lab.com/sitemap.xml
