@@ -46,3 +46,5 @@ The research was supported by multiple funding sources, including the **Independ
 
 **Resources, Conservation and Recycling** (*Impact Factor: 11.2*) is a leading international journal in sustainable resource management, published by **Elsevier**.
 
+![20250615post2](/images/20250615post2.png)
+
