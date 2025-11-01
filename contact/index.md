@@ -9,6 +9,7 @@ nav:
 {% include section.html %}
 
 <div style="font-size: 1.3rem; line-height: 1.6;" markdown="1">
+  
 Feel free to contact us if you have a background or strong interest in **industrial ecology**, **environmental engineering**, **geography**, **computer science**, or related disciplines.
 
 We especially welcome those with expertise in:
