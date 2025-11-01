@@ -1,10 +1,10 @@
 ---
-title: "SMILE LAB Develop High-Resolution Global Dataset for Material Stocks"
-image: images/20250926post_materialstocks.png
+title: "SMILE Team Develop High-Resolution Global Dataset for Material Stocks"
+image: images/20250615post.png
 tags: Research, Circular-economy, Urban-sustainability
 ---
 
-**SMILE LAB** has led the development of a groundbreaking **global dataset** that maps **anthropogenic material stocks** at unprecedented resolution. The research, published in *Scientific Data* (Nature), provides the first comprehensive view of **steel, aluminum, and cement stocks** worldwide at a **500×500-meter grid resolution** from **2000 to 2019**.
+**SMILE Team** has led the development of a groundbreaking **global dataset** that maps **anthropogenic material stocks** at unprecedented resolution. The research, published in *Scientific Data* (Nature), provides the first comprehensive view of **steel, aluminum, and cement stocks** worldwide at a **500×500-meter grid resolution** from **2000 to 2019**.
 
 ## A New Window into Urban Material Accumulation
 
