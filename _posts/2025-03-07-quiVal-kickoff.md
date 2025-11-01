@@ -10,5 +10,5 @@ The event introduced the program’s interdisciplinary approach to circular econ
 
 We look forward to the exciting research and innovation ahead.
 
-![QuiVal Kickoff](sdu-smile-lab/images/QuiValKickoff.jpg)
+images/QuiValKickoff.jpg
 
