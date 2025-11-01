@@ -37,7 +37,6 @@ nav:
   border-radius: 8px;
 }
 
-/* 响应式设计：在屏幕宽度小于768px时调整布局 */
 @media (max-width: 768px) {
   .research-item {
     flex-direction: column;
