@@ -6,15 +6,6 @@ header: images/odense.jpg
 footer: images/background.jpg
 proofer: false
 
-# site social media and other links
-links:
-  email: wuc@igt.sdu.dk
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: sdu-mfa
-  twitter: sdu-mfa
-  youtube: sdu-mfa
-
 ### jekyll settings
 
 # front matter defaults
