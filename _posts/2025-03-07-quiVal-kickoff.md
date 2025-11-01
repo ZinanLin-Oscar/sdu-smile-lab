@@ -1,6 +1,6 @@
 ---
 title: QuiVal Doctoral Network Kicks Off at TU Delft
-image: images/QuiVal Kickoff.jpg
+image: images/QuiValKickoff.jpg
 tags: QuiVal, Built-Environment
 ---
 
@@ -10,5 +10,5 @@ The event introduced the program’s interdisciplinary approach to circular econ
 
 We look forward to the exciting research and innovation ahead.
 
-![QuiVal Kickoff](images/QuiVal%20Kickoff.jpg)
+![QuiVal Kickoff]("images/QuiValKickoff.jpg")
 
