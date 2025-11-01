@@ -10,3 +10,7 @@ The event introduced the program’s interdisciplinary approach to circular econ
 
 We look forward to the exciting research and innovation ahead.
 
+
+<div style="text-align: center;">
+  images/QuiVal Kickoff.jpg
+</div
