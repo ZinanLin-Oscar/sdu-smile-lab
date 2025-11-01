@@ -9,9 +9,15 @@ nav:
 {% include section.html %}
 
 <div style="font-size: 1.3rem; line-height: 1.6;">
-  We are continuously looking for passionate and motivated <strong>PhD candidates</strong> and <strong>Postdoctoral researchers</strong> (full scholarship) to work on xxxxx.  
-  Students in xxxxxx, or related majors with proficient xxxx skills are welcome to apply.  
-  Please feel free to contact Prof. Wu Chen with CV (and/or transcripts, sample publications) attached if you are interested.  
+Feel free to contact us if you have a background or strong interest in <strong>industrial ecology</strong>, <strong>environmental engineering</strong>, <strong>geography</strong>, <strong>computer science</strong>, or related disciplines.
+  
+ We especially welcome those with expertise in:  
+  ● <strong>Industrial ecology methods</strong> (MFA / LCA / IOA)  
+  ● <strong>Economic and system modeling</strong> (SD / ABM / CGE / IAM)  
+  ● <strong>Big data analytics</strong> (spatial-temporal analysis, text mining, complex networks, deep learning)  
+  ● Research focused on <strong>socio-metabolic dynamics of food, energy, and material systems</strong>, including resource flows, environmental impacts, and circular economy strategies.
+
+ If you are passionate about advancing sustainability research and would like to explore collaboration opportunities, please reach out to Prof. Wu Chen with your CV (and/or transcripts, sample publications) attached.   
 
   <br><br>
   📧 <strong>Prof. Wu Chen</strong> – wuc@igt.sdu.dk
