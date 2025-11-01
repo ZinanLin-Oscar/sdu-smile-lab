@@ -2,11 +2,15 @@
 ---
 # **About US**
 
+<div style="font-size: 20px; line-height: 1.6;">
+  
 We are a young and international research group in the [Department of Green Technology](https://www.sdu.dk/en/igt) at the Faculty of Engineering, [University of Southern Denmark](https://www.sdu.dk/en). 
 
 We study the **sustainable transformation** of **socio-economic systems**, with a particular focus on **transport**, **buildings**, **food**, and **energy** systems. Our research seeks to uncover the material and energetic foundations of these systems, providing insights into their systemic dynamics, technological transitions, and environmental implications.
 
 Through close collaboration with academic institutions, industry partners, and policy stakeholders, we aim to serve as a strategic bridge between research, practice, and decision-making. By fostering knowledge exchange, interdisciplinary dialogue, and real-world application, we contribute to shaping more resilient and sustainable futures.
+
+</div>
 
 ![Overview Image](images/teamoverview.png)
 
