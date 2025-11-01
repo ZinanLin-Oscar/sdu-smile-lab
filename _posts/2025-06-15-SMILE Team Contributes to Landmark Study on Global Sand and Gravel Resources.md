@@ -1,6 +1,6 @@
 ---
 title: "SMILE Team Contributes to Landmark Study on Global Sand and Gravel Resources"
-image: images/20250615post.png
+image: images/20250615post2.png
 tags: Research, Circular-economy, Built-environment
 ---
 
