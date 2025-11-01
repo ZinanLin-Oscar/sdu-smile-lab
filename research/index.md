@@ -54,6 +54,7 @@ nav:
 }
 </style>
 
+
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 <div class="research-container">
