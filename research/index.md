@@ -51,7 +51,7 @@ nav:
     <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident
   </div>
   <div class="research-image">
-    ../images/windy.png
+    <img src="../images/windy.png" >
   </div>
 </div>
 
@@ -64,7 +64,7 @@ nav:
     <strong>Keywords:</strong> Circular Economy, Built environment, Urban metabolism
   </div>
   <div class="research-image">
-    ../images/quival.png
+    <img src="../images/quival.png" >
   </div>
 </div>
 
@@ -77,7 +77,7 @@ nav:
     <strong>Keywords:</strong> Transport, Sustainability development
   </div>
   <div class="research-image">
-    ../images/treasource.png
+    <img src="../images/treasource.png" >
   </div>
 </div>
 
@@ -90,7 +90,7 @@ nav:
     <strong>Keywords:</strong> Agriculture, Food
   </div>
   <div class="research-image">
-    ../images/wasteless.png
+    <img src="../images/wasteless.png" >
   </div>
 </div>
 
