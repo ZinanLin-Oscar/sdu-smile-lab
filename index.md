@@ -55,7 +55,7 @@ Stay updated with our latest publications, conference highlights, and research i
 
 {%
   include feature.html
-  image="images/QuiVal Kickoff.jpg"
+  image="images/QuiValKickoff.jpg"
   link="blog"
   title="Blogs"
   flip=true
