@@ -36,10 +36,26 @@ nav:
   height: auto;
   border-radius: 8px;
 }
+
+/* 响应式设计：在屏幕宽度小于768px时调整布局 */
+@media (max-width: 768px) {
+  .research-item {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .research-image {
+    max-width: 100%;
+  }
+
+  .research-image img {
+    width: 100%;
+    height: auto;
+  }
+}
 </style>
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
-
 <div class="research-container">
 
 <!-- Windy Project -->
@@ -51,7 +67,7 @@ nav:
     <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident
   </div>
   <div class="research-image">
-    <img src="../images/windy.png" >
+    <img srcs/windy.png
   </div>
 </div>
 
@@ -64,8 +80,7 @@ nav:
     <strong>Keywords:</strong> Circular Economy, Built environment, Urban metabolism
   </div>
   <div class="research-image">
-    <img src="../images/quival.png" >
-  </div>
+    <img src="../images/qu </div>
 </div>
 
 <!-- TREASoURcE Project -->
@@ -77,8 +92,7 @@ nav:
     <strong>Keywords:</strong> Transport, Sustainability development
   </div>
   <div class="research-image">
-    <img src="../images/treasource.png" >
-  </div>
+    <img src="../images/treasourceiv>
 </div>
 
 <!-- Wasteless Project -->
@@ -90,8 +104,8 @@ nav:
     <strong>Keywords:</strong> Agriculture, Food
   </div>
   <div class="research-image">
-    <img src="../images/wasteless.png" >
-  </div>
+    <img src="../images/wastelessiv>
 </div>
 
 </div>
+``
