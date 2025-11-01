@@ -19,7 +19,6 @@ We especially welcome those with expertise in:
 - Research focused on **socio-metabolic dynamics of food, energy, and material systems**, including resource flows, environmental impacts, and circular economy strategies.
 
 If you are passionate about advancing sustainability research and would like to explore collaboration opportunities, please reach out to Prof. Wu Chen with your CV (and/or transcripts, sample publications) attached.
-
 <br><br>
 📧 **Prof. Wu Chen** – wuc@igt.sdu.dk
 </div>
