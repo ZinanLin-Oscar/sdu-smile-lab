@@ -41,5 +41,5 @@ The findings underscore the need to **balance greenhouse gas reduction goals wit
 **Paper status**: Accepted by *Nature Communications* (in press)
 **Nature Communications** is a premier open-access multidisciplinary journal publishing high-quality research across all areas of the natural sciences.
 
-
+![20251015post](/images/20251015post.png)
 
