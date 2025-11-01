@@ -4,23 +4,23 @@ nav:
   order: 5
   tooltip: Email, address, and location
 ---
- 
+
 # **{% include icon.html icon="fa-regular fa-envelope" %}  Contact**
 {% include section.html %}
 
-<div style="font-size: 1.3rem; line-height: 1.6;">
-Feel free to contact us if you have a background or strong interest in <strong>industrial ecology</strong>, <strong>environmental engineering</strong>, <strong>geography</strong>, <strong>computer science</strong>, or related disciplines.
-  
- We especially welcome those with expertise in:  
-  ● <strong>Industrial ecology methods</strong> (MFA / LCA / IOA)  
-  ● <strong>Economic and system modeling</strong> (SD / ABM / CGE / IAM)  
-  ● <strong>Big data analytics</strong> (spatial-temporal analysis, text mining, complex networks, deep learning)  
-  ● Research focused on <strong>socio-metabolic dynamics of food, energy, and material systems</strong>, including resource flows, environmental impacts, and circular economy strategies.
+<div style="font-size: 1.3rem; line-height: 1.6;" markdown="1">
+Feel free to contact us if you have a background or strong interest in **industrial ecology**, **environmental engineering**, **geography**, **computer science**, or related disciplines.
 
- If you are passionate about advancing sustainability research and would like to explore collaboration opportunities, please reach out to Prof. Wu Chen with your CV (and/or transcripts, sample publications) attached.   
+We especially welcome those with expertise in:
+- **Industrial ecology methods** (MFA / LCA / IOA)
+- **Economic and system modeling** (SD / ABM / CGE / IAM)
+- **Big data analytics** (spatial-temporal analysis, text mining, complex networks, deep learning)
+- Research focused on **socio-metabolic dynamics of food, energy, and material systems**, including resource flows, environmental impacts, and circular economy strategies.
 
-  <br><br>
-  📧 <strong>Prof. Wu Chen</strong> – wuc@igt.sdu.dk
+If you are passionate about advancing sustainability research and would like to explore collaboration opportunities, please reach out to Prof. Wu Chen with your CV (and/or transcripts, sample publications) attached.
+
+<br><br>
+📧 **Prof. Wu Chen** – wuc@igt.sdu.dk
 </div>
 
 <hr>
