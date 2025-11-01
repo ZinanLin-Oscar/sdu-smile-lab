@@ -21,6 +21,7 @@ The research identifies concrete mitigation strategies:
 - **Recycling copper** (which contributes **37%** of hidden flows) could reduce total waste by **35%**.
 - **Switching from NMC/NCA batteries to LFP batteries** could achieve **3–12%** reduction.
 - **Clean energy transition** in smelting and refining could reduce hidden flows by **13–14%**.
+  
 “About half of these hidden flows occur abroad, revealing an unequal distribution of environmental burdens,” notes the research team. “Achieving a sustainable e-mobility transition requires coordinated international cooperation along the entire supply chain—from mining countries improving extraction practices to manufacturing countries adopting responsible sourcing and efficient product designs.”
 The findings underscore the need to balance greenhouse gas reduction goals with broader environmental sustainability, ensuring that the transition to electric mobility doesn't simply shift environmental problems from emissions to mining waste.
 
