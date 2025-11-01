@@ -1,6 +1,6 @@
 ---
 title: "Hidden Environmental Cost of E-Mobility: New Study Reveals Massive Mining Waste from Electric Vehicle Production"
-image: images/Image.jpg
+image: images/20251015post.png
 tags: Research, Circular-economy, Sustainability, E-mobility
 ---
 
