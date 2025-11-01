@@ -25,11 +25,13 @@ $wrap: 800px;
 }
 
 .post-excerpt-image img {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  object-fit: cover; /* 默认裁剪填充 */
+}
+
+@container (min-width: #{$wrap}) {
+  .post-excerpt-image img {
+    object-fit: contain; /* 大屏显示完整 */
+  }
 }
 
 .post-excerpt-text {
