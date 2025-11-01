@@ -1,5 +1,5 @@
 ---
-title: SDU Researchers Engage with QuiVal Partners Circue and Rambøll
+title: SDU Researchers Collaborate with Industry Partners Circue and Rambøll
 image: images/Image.jpg
 tags: QuiVal, Built-Environment, Industry
 ---
