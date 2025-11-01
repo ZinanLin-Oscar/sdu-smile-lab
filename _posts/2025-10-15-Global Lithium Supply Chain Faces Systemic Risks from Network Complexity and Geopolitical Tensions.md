@@ -99,3 +99,4 @@ Countries with high vulnerability need:
 
 **Environmental Science & Technology** is a leading international journal covering environmental science, technology, and policy research. Published biweekly by the **American Chemical Society** since 1967, it has an **impact factor of 11.357 (2022–2023)**.
 
+![20251015post_lithium](/images/20251015post_lithium.png)
