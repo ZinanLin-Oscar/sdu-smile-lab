@@ -39,7 +39,6 @@ The research identifies **concrete mitigation strategies**:
 The findings underscore the need to **balance greenhouse gas reduction goals with broader environmental sustainability**, ensuring that the transition to electric mobility doesn't simply **shift environmental problems from emissions to mining waste**.
 
 **Paper status**: Accepted by *Nature Communications* (in press)
-
 **Nature Communications** is a premier open-access multidisciplinary journal publishing high-quality research across all areas of the natural sciences.
 
 
