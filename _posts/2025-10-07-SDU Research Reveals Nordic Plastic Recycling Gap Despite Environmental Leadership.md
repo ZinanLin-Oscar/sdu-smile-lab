@@ -30,5 +30,5 @@ The findings were supported by multiple funding sources including the EU TREASoU
 
 ![20251007post](/images/20251007post.png)
 
-**[Read the full paper](https://doi.org/10.1021/acssusresmgt.5c00143)**: <br>
+**[Read the full paper](https://doi.org/10.1021/acssusresmgt.5c00143)** <br>
 *ACS Sustainable Resource Management* is an interdisciplinary journal publishing original research on the sustainable management of natural and waste resources, emphasizing systems thinking and planetary boundaries.
