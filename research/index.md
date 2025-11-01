@@ -56,6 +56,7 @@ nav:
 </style>
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
+
 <div class="research-container">
 
 <!-- Windy Project -->
@@ -67,7 +68,7 @@ nav:
     <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident
   </div>
   <div class="research-image">
-    <img srcs/windy.png
+    <img src="../images/windy.png" >
   </div>
 </div>
 
@@ -80,7 +81,8 @@ nav:
     <strong>Keywords:</strong> Circular Economy, Built environment, Urban metabolism
   </div>
   <div class="research-image">
-    <img src="../images/qu </div>
+    <img src="../images/quival.png" >
+  </div>
 </div>
 
 <!-- TREASoURcE Project -->
@@ -92,7 +94,8 @@ nav:
     <strong>Keywords:</strong> Transport, Sustainability development
   </div>
   <div class="research-image">
-    <img src="../images/treasourceiv>
+    <img src="../images/treasource.png" >
+  </div>
 </div>
 
 <!-- Wasteless Project -->
@@ -104,8 +107,8 @@ nav:
     <strong>Keywords:</strong> Agriculture, Food
   </div>
   <div class="research-image">
-    <img src="../images/wastelessiv>
+    <img src="../images/wasteless.png" >
+  </div>
 </div>
 
 </div>
-``
