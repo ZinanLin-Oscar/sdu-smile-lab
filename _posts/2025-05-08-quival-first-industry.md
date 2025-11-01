@@ -12,4 +12,4 @@ Lene provided an overview of Circue’s mission, which focuses on creating a dig
  
 The meeting established a strong foundation for what is expected to be a productive collaboration. The discussions enhanced the understanding of each party's objectives and strengths, setting the stage for effective cooperation. We look forward to three years of shared learning and impactful results.
 
-![QuiVal Kickoff](/images/Image.jpg)
+![Industry Partners](/images/Image.jpg)
