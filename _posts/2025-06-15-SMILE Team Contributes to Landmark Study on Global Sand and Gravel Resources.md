@@ -1,9 +1,7 @@
-
 ---
 title: "SMILE Team Contributes to Landmark Study on Global Sand and Gravel Resources"
 image: images/20250615post.png
 tags: Research, Circular-economy, Built-environment
-
 ---
 
 **SMILE Team** has co-authored a groundbreaking study that reveals critical insights into the **global sand and gravel crisis**. The research, published in *Resources, Conservation and Recycling*, tracks **five decades** of sand and gravel stocks and flows across **184 countries**.
