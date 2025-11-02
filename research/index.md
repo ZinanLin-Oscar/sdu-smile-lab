@@ -83,7 +83,7 @@ nav:
 <div class="research-item">
   <div class="research-text">
     <strong>
-      <a href="https://cordis.europa.eu/project/id/101181231/pl" target-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
+      <a href="https://cordis.europa.eu/project/id/101181231/pl" target="_blank" target-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
       </a>
     </strong><br>
     <strong>Duration:</strong> 10.2024–09.2028 (active)<br>
