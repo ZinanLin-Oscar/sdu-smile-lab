@@ -5,7 +5,7 @@ description: PhD Student
 role: PhD Student
 links:
   email: ajok@igt.sdu.dk
-  orcid: https://orcid.org/0009-0007-3990-7418
+  orcid: 0009-0007-3990-7418
 ---
 
 Antonia Johanna Klipp is a PhD Candidate at the Center for Life Cycle Engineering, Department of Green Technology, at the University of Southern Denmark. Her research investigates how circularity influences the value of building materials, contributing to QuiVal, a transdisciplinary EU-funded project on Quantum-inspired Valuation of Real Estate.
