@@ -83,9 +83,8 @@ nav:
 <div class="research-item">
   <div class="research-text">
     <h4>
-      https://cordis.europa.eu/project/id/101181231/pl
-        Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
-        </a>
+      <a href=" https://cordis.europa.eu/project/id/101181231/pl" Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
+      </a>
     </h4>
     <strong>Duration:</strong> 10.2024–09.2028 (active)<br>
     <strong>Funding Type:</strong> EU Marie Skłodowska-Curie Actions (MSCA)<br>
@@ -123,6 +122,8 @@ nav:
     <img src="../images/treasource.png" >
   </div>
 </div>
+
+------
 
 ### Regional Foundations
 
