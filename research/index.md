@@ -80,10 +80,9 @@ nav:
 
 
 <!-- Windy Project -->
+### [Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production](https://cordis.europa.eu/project/id/101181231/pl) <br>
 <div class="research-item">
   <div class="research-text">  
-    
-  ### [Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production](https://cordis.europa.eu/project/id/101181231/pl) <br>
     <strong>Duration:</strong> 10.2024–09.2028 (active)<br>
     <strong>Funding Type:</strong> EU Marie Skłodowska-Curie Actions (MSCA)<br>
     <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident
