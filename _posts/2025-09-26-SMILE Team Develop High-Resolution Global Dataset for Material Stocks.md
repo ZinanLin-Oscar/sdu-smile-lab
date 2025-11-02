@@ -4,7 +4,7 @@ image: images/20250615post.png
 tags: Research, Circular-economy, Urban-sustainability
 ---
 
-SMILE LAB has led the development of a groundbreaking global dataset that maps anthropogenic material stocks at unprecedented resolution. The research, published in *Scientific Data (Nature)*, provides the first comprehensive view of steel, aluminum, and cement stocks worldwide at a 500×500-meter grid resolution from 2000 to 2019.
+SMILE Team  has led the development of a groundbreaking global dataset that maps anthropogenic material stocks at unprecedented resolution. The research, published in *Scientific Data (Nature)*, provides the first comprehensive view of steel, aluminum, and cement stocks worldwide at a 500×500-meter grid resolution from 2000 to 2019.
 
 ### A New Window into Urban Material Accumulation
 The SDU team, including Associate Professor Wu Chen, Dr. Kun Sun, from the Department of Green Technology, collaborated with Professor Bailang Yu (East China Normal University) and Professor Gang Liu (Peking University) to create this high-resolution dataset. The work integrates reconciled nighttime light imagery with national material stock data, overcoming critical limitations in previous satellite-based approaches.
