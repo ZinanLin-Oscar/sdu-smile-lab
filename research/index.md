@@ -83,7 +83,8 @@ nav:
 <div class="research-item">
   <div class="research-text">
     <h4>
-      <a href=" https://cordis.europa.eu/project/id/101181231/pl" Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
+      https://cordis.europa.eu/project/id/101181231/pl
+         Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
       </a>
     </h4>
     <strong>Duration:</strong> 10.2024–09.2028 (active)<br>
