@@ -24,6 +24,8 @@ nav:
 
 .research-text {
   flex: 1;
+  text-align: left; 
+  font-size: 1.2rem; 
 }
 
 .research-image {
