@@ -12,6 +12,21 @@ nav:
   gap: 2rem;
 }
 
+.research-section {
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.research-section.eu {
+  background-color: #f0f8ff;
+  border-left: 4px solid #0077b6;
+}
+
+.research-section.regional {
+  background-color: #fdf6e3;
+  border-left: 4px solid #ff8800;
+}
+
 .research-item {
   display: flex;
   flex-direction: row;
@@ -25,7 +40,7 @@ nav:
 .research-text {
   flex: 1;
   text-align: left; 
-  font-size: 1.2rem; 
+  font-size: 1.3rem; 
 }
 
 .research-image {
@@ -59,12 +74,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-<div class="research-container">
+### EU Foundations
+
+<div class="research-section eu">
+
 
 <!-- Windy Project -->
 <div class="research-item">
   <div class="research-text">
-    <h4>Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production</h4>
+    <h4>
+      https://cordis.europa.eu/project/id/101181231/pl
+        Windy: Multi-disciplinary risk management for stable, safe, and sustainable offshore wind-powered hydrogen production
+        </a>
+    </h4>
     <strong>Duration:</strong> 10.2024–09.2028 (active)<br>
     <strong>Funding Type:</strong> EU Marie Skłodowska-Curie Actions (MSCA)<br>
     <strong>Keywords:</strong> Wind-powered hydrogen production, Risk prediction, Natural disaster triggered accident
@@ -73,6 +95,7 @@ nav:
     <img src="../images/windy.png" >
   </div>
 </div>
+
 
 <!-- QuiVal Project -->
 <div class="research-item">
@@ -87,6 +110,7 @@ nav:
   </div>
 </div>
 
+
 <!-- TREASoURcE Project -->
 <div class="research-item">
   <div class="research-text">
@@ -99,6 +123,11 @@ nav:
     <img src="../images/treasource.png" >
   </div>
 </div>
+
+### Regional Foundations
+
+<div class="research-section regional">
+  
 
 <!-- Wasteless Project -->
 <div class="research-item">
