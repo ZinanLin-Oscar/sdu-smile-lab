@@ -5,7 +5,7 @@ description: Postdoc
 role: Postdoc
 links:
   email: xuli@igt.sdu.dk
-  orcid: https://orcid.org/0000-0002-1187-9167
+  orcid: 0000-0002-1187-9167
 ---
 
 Xuewei Liu is a postdoctoral researcher in Life Cycle Engineering at the Department of Green Technology, University of Southern Denmark (SDU). She holds a PhD and a BSc in Environmental Science and Engineering from Nanjing University, China. Her doctoral research focused on the phosphorus cycle and waste management.
