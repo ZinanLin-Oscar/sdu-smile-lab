@@ -39,8 +39,12 @@ nav:
 
 .research-text {
   flex: 1;
-  text-align: left; 
-  font-size: 1.2rem; 
+  text-align: left;
+  font-size: 1.2rem;
+  word-wrap: break-word;       
+  overflow-wrap: break-word;   
+  max-width: 100%;            
+  box-sizing: border-box;     
 }
 
 .research-image {
