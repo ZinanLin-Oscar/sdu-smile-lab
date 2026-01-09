@@ -8,6 +8,9 @@ nav:
  
 
 ## 2025 ##
+#### [Physical understanding of food systems towards sustainability with material flow analysis: A critical review](https://www.sciencedirect.com/science/article/pii/S2211912425000719#ack0010) ####
+Qian, Z., Chen, W., Xue, L., Della Penna, A. A., Ammann, J., Liechti, C., Dongo, D. & Liu, G., 5. Dec 2025, In: Global Food Security.
+
 #### [High-Resolution Mapping of the Nordic Plastic Cycle Suggests Capacity Expansion for Both Mechanical and Chemical Recycling](https://pubs.acs.org/doi/10.1021/acssusresmgt.5c00143) ####
 Gao, Y., Liu, X., Chen, W., Cabrera Serrenho, A., Cimpan, C. & Liu, G., 3. Oct 2025, In: ACS Sustainable Resource Management.
 
