@@ -1,6 +1,3 @@
----
----
-
 # **About Me**
 
 We are a young and international research group in the [Department of Green Technology](https://www.sdu.dk/en/igt) at the Faculty of Engineering, [University of Southern Denmark](https://www.sdu.dk/en).
